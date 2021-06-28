@@ -1,0 +1,43 @@
+{
+    "from": [
+        "fridge",
+        "computer",
+        "train",
+        "lion",
+        "book",
+        "dentist",
+        "smartphone",
+        "clock",
+        "switch",
+        "newspaper",
+        "pendant",
+        "photograph",
+        "charger",
+        "snake",
+        "earphone",
+        "headphone",
+        "table",
+        "iphone",
+        "wallet"
+
+    ],
+    "to": [
+        "garden",
+        "stock market",
+        "pickle",
+        "war",
+        "building a bridge",
+        "memory",
+        "cage",
+        "cupboard",
+        "moisturizer",
+        "pen",
+        "towel",
+        "darts",
+        "cushion",
+        "venom",
+        "bottle",
+        "umbrella",
+        "console"
+    ]
+}
