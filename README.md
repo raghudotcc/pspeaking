@@ -4,6 +4,8 @@ Tinkering with the ultraspeaking thingy. It was a paid thing, so I am writing th
 
 ## Usage
 
-run ```npm run dev
+```
+npm run dev
 # or
-yarn dev```
+yarn dev
+```
