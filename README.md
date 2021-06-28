@@ -1,6 +1,6 @@
 # PSpeaking
 
-Tinkering with the ultraspeaking thingy. It was a paid thing, so I am writing this.
+Tinkered with the [ultraspeaking](https://ultraspeaking.com/) thingy. It was a paid thing, so I am writing this.
 
 ## Usage
 
